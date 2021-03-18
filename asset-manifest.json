@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/spotify-app/static/css/main.e3f7b2f9.chunk.css",
-    "main.js": "/spotify-app/static/js/main.ce243775.chunk.js",
-    "main.js.map": "/spotify-app/static/js/main.ce243775.chunk.js.map",
-    "runtime-main.js": "/spotify-app/static/js/runtime-main.a204f0d3.js",
-    "runtime-main.js.map": "/spotify-app/static/js/runtime-main.a204f0d3.js.map",
-    "static/css/2.74b270cf.chunk.css": "/spotify-app/static/css/2.74b270cf.chunk.css",
-    "static/js/2.d0ec0777.chunk.js": "/spotify-app/static/js/2.d0ec0777.chunk.js",
-    "static/js/2.d0ec0777.chunk.js.map": "/spotify-app/static/js/2.d0ec0777.chunk.js.map",
-    "index.html": "/spotify-app/index.html",
-    "static/css/2.74b270cf.chunk.css.map": "/spotify-app/static/css/2.74b270cf.chunk.css.map",
-    "static/css/main.e3f7b2f9.chunk.css.map": "/spotify-app/static/css/main.e3f7b2f9.chunk.css.map",
-    "static/js/2.d0ec0777.chunk.js.LICENSE.txt": "/spotify-app/static/js/2.d0ec0777.chunk.js.LICENSE.txt",
-    "static/media/music.b2fe7d4d.jpeg": "/spotify-app/static/media/music.b2fe7d4d.jpeg"
+    "main.css": "/spotify-search-app/static/css/main.e3f7b2f9.chunk.css",
+    "main.js": "/spotify-search-app/static/js/main.7042c058.chunk.js",
+    "main.js.map": "/spotify-search-app/static/js/main.7042c058.chunk.js.map",
+    "runtime-main.js": "/spotify-search-app/static/js/runtime-main.8536255f.js",
+    "runtime-main.js.map": "/spotify-search-app/static/js/runtime-main.8536255f.js.map",
+    "static/css/2.74b270cf.chunk.css": "/spotify-search-app/static/css/2.74b270cf.chunk.css",
+    "static/js/2.d0ec0777.chunk.js": "/spotify-search-app/static/js/2.d0ec0777.chunk.js",
+    "static/js/2.d0ec0777.chunk.js.map": "/spotify-search-app/static/js/2.d0ec0777.chunk.js.map",
+    "index.html": "/spotify-search-app/index.html",
+    "static/css/2.74b270cf.chunk.css.map": "/spotify-search-app/static/css/2.74b270cf.chunk.css.map",
+    "static/css/main.e3f7b2f9.chunk.css.map": "/spotify-search-app/static/css/main.e3f7b2f9.chunk.css.map",
+    "static/js/2.d0ec0777.chunk.js.LICENSE.txt": "/spotify-search-app/static/js/2.d0ec0777.chunk.js.LICENSE.txt",
+    "static/media/music.b2fe7d4d.jpeg": "/spotify-search-app/static/media/music.b2fe7d4d.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a204f0d3.js",
+    "static/js/runtime-main.8536255f.js",
     "static/css/2.74b270cf.chunk.css",
     "static/js/2.d0ec0777.chunk.js",
     "static/css/main.e3f7b2f9.chunk.css",
-    "static/js/main.ce243775.chunk.js"
+    "static/js/main.7042c058.chunk.js"
   ]
 }
